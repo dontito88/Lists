@@ -1,0 +1,15 @@
+namespace AppendList
+{
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+    public class AppencList
+    {
+        public static void Main()
+        {
+            Lisr<int> input = Console.ReadLine().Split('|').ToList();
+            
+        }
+    }
+}
